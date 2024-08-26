@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi there, I'm Donkor James 👋
+
+I'm a passionate Software Engineer with a focus on backend. I love building applications that solve real-world problems and improve user experiences.
 
 <!--
 **donkor-james/donkor-james** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
